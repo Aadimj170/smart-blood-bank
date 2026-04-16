@@ -8,19 +8,21 @@
 
 ### 📁 Project Documents
 
-TABLE:-
+### 📁 Project Documents
 
-|SR. NO.   |    DESCRIPTION            | lINK
-|__________|___________________________|______
-|1.        | PROJECT CODE              |
-|2.        | REPORT                    |
-|3.        | CERTIFICATE_AADI_055      |
-|4.        | COURSE REPORT_AADI_055    |
-|5.        | CERTIFICATE_NANDINI_056   |
-|6.        | COURSE REPORT_NANDINI_056 |
-|7.        | CERTIFICATE_DAKSH_064     |
-|8.        | COURSE REPORT_DAKSH_064   |
-|9.        | FINAL PPT                 |
+### 📁 Project Documents
+
+| SR. NO. | DESCRIPTION                 | LINK |
+|:------:|----------------------------|:----:|
+| 1 | PROJECT CODE | [Open](#) |
+| 2 | REPORT | [Open](#) |
+| 3 | CERTIFICATE_AADI_055 | [Open](#) |
+| 4 | COURSE REPORT_AADI_055 | [Open](#) |
+| 5 | CERTIFICATE_NANDINI_056 | [Open](#) |
+| 6 | COURSE REPORT_NANDINI_056 | [Open](#) |
+| 7 | CERTIFICATE_DAKSH_064 | [Open](#) |
+| 8 | COURSE REPORT_DAKSH_064 | [Open](#) |
+| 9 | FINAL PPT | [Open](#) |
 
 
 
@@ -110,4 +112,4 @@ node index.js
 
 
 
-
+this is the entire readme file can you please fit it
