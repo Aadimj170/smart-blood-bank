@@ -14,11 +14,11 @@
 | 1 | PROJECT CODE | [Open](#) |
 | 2 | REPORT | [Open](#) |
 | 3 | CERTIFICATE_AADI_055 | [Open](#) |
-| 4 | COURSE REPORT_AADI_055 | [Open](#) |
+| 4 | COURSE_REPORT_AADI_055 | [Open](#) |
 | 5 | CERTIFICATE_NANDINI_056 | [Open](#) |
-| 6 | COURSE REPORT_NANDINI_056 | [Open](#) |
+| 6 | COURSE_REPORT_NANDINI_056 | [Open](#) |
 | 7 | CERTIFICATE_DAKSH_064 | [Open](#) |
-| 8 | COURSE REPORT_DAKSH_064 | [Open](#) |
+| 8 | COURSE_REPORT_DAKSH_064 | [Open](#) |
 | 9 | FINAL PPT | [Open](#) |
 
 
