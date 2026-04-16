@@ -1,13 +1,26 @@
+#🩸 HemaSmart: Intelligent Blood Supply Chain & Logistics Network
+
+
+## PROJECT MEMBERS
+1. AADI JAIN- RA2411030030055
+2. NANDINI SHARMA- RA2411030030056
+3. DAKSH BANSAL- RA2411030030064
+
+### 📁 Project Documents
+
 TABLE:-
 
-SR. NO.   |    DESCRIPTION          | lINK
-________  |    _____________        | _____
-1.        |        CODE             |
-2.        |       REPORT            |
-3.        |  CERTIFICATE_AADI_055   |
-4.        | CERTIFICATE_NANDINI_056 |
-5.        | CERTIFICATE_DAKSH_064   |
-6.        |     PPT_REVIEW_3        |
+|SR. NO.   |    DESCRIPTION            | lINK
+|__________|___________________________|______
+|1.        | PROJECT CODE              |
+|2.        | REPORT                    |
+|3.        | CERTIFICATE_AADI_055      |
+|4.        | COURSE REPORT_AADI_055    |
+|5.        | CERTIFICATE_NANDINI_056   |
+|6.        | COURSE REPORT_NANDINI_056 |
+|7.        | CERTIFICATE_DAKSH_064     |
+|8.        | COURSE REPORT_DAKSH_064   |
+|9.        | FINAL PPT                 |
 
 
 
