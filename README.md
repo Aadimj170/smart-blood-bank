@@ -12,7 +12,7 @@
 | SR. NO. | DESCRIPTION                 | LINK |
 |:------:|----------------------------|:----:|
 | 1 | PROJECT CODE | [Open](#) |
-| 2 | PROJECT REPORT | [Open](#) |
+| 2 | PROJECT REPORT | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/DBMS%20PROJECT%20REPORT.pdf) |
 | 3 | CERTIFICATE_AADI_055 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/DBMS%20certificate.pdf) |
 | 4 | COURSE_REPORT_AADI_055 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/COURSE_REPORT_AADI_055.pdf) |
 | 5 | CERTIFICATE_NANDINI_056 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/Nandini.jpg) |
@@ -20,7 +20,7 @@
 | 7 | CERTIFICATE_DAKSH_064 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/Daksh.jpg) |
 | 8 | COURSE_REPORT_DAKSH_064 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/course_report_daksh_064.pdf) |
 | 9 | FINAL PPT | [Open](#) |
-|10 | ERD | [Open](#3) |
+|10 | ERD | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/ERD%20BLOOD%20LINK%20UPDATED.pdf) |
 
 
 
