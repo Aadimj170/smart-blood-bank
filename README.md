@@ -15,9 +15,9 @@
 | 2 | PROJECT REPORT | [Open](#) |
 | 3 | CERTIFICATE_AADI_055 | [Open](#) |
 | 4 | COURSE_REPORT_AADI_055 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/COURSE_REPORT_AADI_055.pdf) |
-| 5 | CERTIFICATE_NANDINI_056 | [Open](#) |
+| 5 | CERTIFICATE_NANDINI_056 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/Nandini.jpg) |
 | 6 | COURSE_REPORT_NANDINI_056 | [Open](#) |
-| 7 | CERTIFICATE_DAKSH_064 | [Open](#) |
+| 7 | CERTIFICATE_DAKSH_064 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/Daksh.jpg) |
 | 8 | COURSE_REPORT_DAKSH_064 | [Open](#) |
 | 9 | FINAL PPT | [Open](#) |
 |10 | ERD | [Open](#3) |
