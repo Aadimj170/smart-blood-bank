@@ -18,7 +18,7 @@
 | 5 | CERTIFICATE_NANDINI_056 | [Open](https://drive.google.com/file/d/1j2sloV2heLTjwoEfNokzxPNZNA3IjGGt/view?usp=drive_link) |
 | 6 | COURSE_REPORT_NANDINI_056 | [Open](https://drive.google.com/file/d/1vyKC4zzAMrsI7e5jfJwam_IMsMcKolO6/view?usp=drive_link) |
 | 7 | CERTIFICATE_DAKSH_064 | [Open](https://drive.google.com/file/d/119vF1DNOgXMWmvcyiFJJkwPxZNeOIsfg/view?usp=drive_link) |
-| 8 | COURSE_REPORT_DAKSH_064 | [Open](#) |
+| 8 | COURSE_REPORT_DAKSH_064 | [Open](https://drive.google.com/file/d/1GPlZME9E8Rz2AHrby0pZxPqdgPGuWyRh/view?usp=drive_link) |
 | 9 | FINAL PPT | [Open](#) |
 
 
