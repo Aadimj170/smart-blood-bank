@@ -19,7 +19,7 @@
 | 6 | COURSE_REPORT_NANDINI_056 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/DBMS_Course_Report_Nandini_Sharma.pdf) |
 | 7 | CERTIFICATE_DAKSH_064 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/Daksh.jpg) |
 | 8 | COURSE_REPORT_DAKSH_064 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/course_report_daksh_064.pdf) |
-| 9 | FINAL PPT | [Open](#) |
+| 9 | FINAL PPT | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/FINAL_PPT_BLOOD_BANK.pptx) |
 |10 | ERD | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/ERD%20BLOOD%20LINK%20UPDATED.pdf) |
 
 
