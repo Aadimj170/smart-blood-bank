@@ -12,15 +12,15 @@
 | SR. NO. | DESCRIPTION                 | LINK |
 |:------:|----------------------------|:----:|
 | 1 | PROJECT CODE | [Open](#) |
-| 2 | PROJECT REPORT | [Open](https://drive.google.com/file/d/1_lgQBv2KPWo5sK9_Mok68gBEIyXOWEmk/view?usp=drive_link) |
-| 3 | CERTIFICATE_AADI_055 | [Open](https://drive.google.com/file/d/1GzYZjTsU4AW31QGoT1fAyZFgts_qotzF/view?usp=drive_link) |
+| 2 | PROJECT REPORT | [Open](#) |
+| 3 | CERTIFICATE_AADI_055 | [Open](#) |
 | 4 | COURSE_REPORT_AADI_055 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/COURSE_REPORT_AADI_055.pdf) |
-| 5 | CERTIFICATE_NANDINI_056 | [Open](https://drive.google.com/file/d/1j2sloV2heLTjwoEfNokzxPNZNA3IjGGt/view?usp=drive_link) |
-| 6 | COURSE_REPORT_NANDINI_056 | [Open](https://drive.google.com/file/d/1vyKC4zzAMrsI7e5jfJwam_IMsMcKolO6/view?usp=drive_link) |
-| 7 | CERTIFICATE_DAKSH_064 | [Open](https://drive.google.com/file/d/119vF1DNOgXMWmvcyiFJJkwPxZNeOIsfg/view?usp=drive_link) |
-| 8 | COURSE_REPORT_DAKSH_064 | [Open](https://drive.google.com/file/d/1GPlZME9E8Rz2AHrby0pZxPqdgPGuWyRh/view?usp=drive_link) |
-| 9 | FINAL PPT | [Open](https://drive.google.com/file/d/1LvzbIql_ei0lAvzu7jqzSCbFS3pN9yA8/view?usp=drive_link) |
-|10 | ERD | [Open](https://drive.google.com/file/d/1NEOvXWbKYfhqmdZsUqZZUcfvlCCeA_vj/view?usp=drive_link) |
+| 5 | CERTIFICATE_NANDINI_056 | [Open](#) |
+| 6 | COURSE_REPORT_NANDINI_056 | [Open](#) |
+| 7 | CERTIFICATE_DAKSH_064 | [Open](#) |
+| 8 | COURSE_REPORT_DAKSH_064 | [Open](#) |
+| 9 | FINAL PPT | [Open](#) |
+|10 | ERD | [Open](#3) |
 
 
 
