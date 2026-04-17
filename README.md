@@ -12,12 +12,12 @@
 | SR. NO. | DESCRIPTION                 | LINK |
 |:------:|----------------------------|:----:|
 | 1 | PROJECT CODE | [Open](#) |
-| 2 | PROJECT REPORT | [Open](#) |
+| 2 | PROJECT REPORT | [Open](https://drive.google.com/file/d/1_lgQBv2KPWo5sK9_Mok68gBEIyXOWEmk/view?usp=drive_link) |
 | 3 | CERTIFICATE_AADI_055 | [Open](https://drive.google.com/file/d/1GzYZjTsU4AW31QGoT1fAyZFgts_qotzF/view?usp=drive_link) |
 | 4 | COURSE_REPORT_AADI_055 | [Open](https://drive.google.com/file/d/1v6Th5OmJ7r_Kq3k9WHAxvWE7KLAcMp3L/view?usp=drive_link) |
-| 5 | CERTIFICATE_NANDINI_056 | [Open](#) |
+| 5 | CERTIFICATE_NANDINI_056 | [Open](https://drive.google.com/file/d/1j2sloV2heLTjwoEfNokzxPNZNA3IjGGt/view?usp=drive_link) |
 | 6 | COURSE_REPORT_NANDINI_056 | [Open](#) |
-| 7 | CERTIFICATE_DAKSH_064 | [Open](#) |
+| 7 | CERTIFICATE_DAKSH_064 | [Open](https://drive.google.com/file/d/119vF1DNOgXMWmvcyiFJJkwPxZNeOIsfg/view?usp=drive_link) |
 | 8 | COURSE_REPORT_DAKSH_064 | [Open](#) |
 | 9 | FINAL PPT | [Open](#) |
 
