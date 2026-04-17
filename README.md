@@ -13,7 +13,7 @@
 |:------:|----------------------------|:----:|
 | 1 | PROJECT CODE | [Open](#) |
 | 2 | PROJECT REPORT | [Open](#) |
-| 3 | CERTIFICATE_AADI_055 | [Open](#) |
+| 3 | CERTIFICATE_AADI_055 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/DBMS%20certificate.pdf) |
 | 4 | COURSE_REPORT_AADI_055 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/COURSE_REPORT_AADI_055.pdf) |
 | 5 | CERTIFICATE_NANDINI_056 | [Open](https://github.com/Aadimj170/smart-blood-bank/blob/main/Nandini.jpg) |
 | 6 | COURSE_REPORT_NANDINI_056 | [Open](#) |
